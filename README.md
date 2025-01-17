@@ -4,7 +4,7 @@ This project demonstrates the foundation of a crypto lottery application and ser
 
 **Looking to build your own crypto lottery?** We provide a complete white-label solution tailored to your needs, enabling you to focus on marketing and growing your community while we handle the technology.
 
-![Crypto Lottery GitHub Image](/images/image1.jpg "Crypto Lottery White Label | GitHub")
+![Crypto Lottery GitHub Image](image1.jpg "Crypto Lottery White Label | GitHub")
 
 
 ## Why This Solution?
